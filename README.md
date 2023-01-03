@@ -1,4 +1,4 @@
-# federated-learning-flair
+# Federated-Learning-FLAIR
 Asia-CCS2023
 
 FLAIR: Defense against Model Poisoning Attack in Federated Learning
