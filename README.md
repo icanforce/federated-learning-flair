@@ -8,7 +8,7 @@ Requirement - PyTorch 1.8.1
 The code when run downloads the dataset (MNIST and CIFAR-10) on its own, and it isnot available to setup the dataset separately.
 
 Default run - "python main.py"
--- Runs FEDSGD aggregation with 10 benign clients on MNIST for 20 iterations
+-- Runs FEDSGD aggregation with 10 benign clients on MNIST for 50 iterations
 
 Example run - Running benign case followed by attack, followed by FLAIR's defense on MNIST
 1) python main.py --gpu 0 --exp benign_fedsgd
